@@ -46,10 +46,12 @@ Welcome to my GitHub! I'm a dedicated and experienced full-stack developer with 
 
 ## 🚀 Let's Connect!
 
-- [**Upwork:**](https://www.upwork.com/freelancers/~01362dcf665cb026b2)
-- [**LinkedIn:**](https://www.linkedin.com/in/bilalkumrani/)
-- [**Twitter:**](https://twitter.com/bilalkumrani)
-- [**Email:**] contact@bilalumrani.com
+- [**Upwork**](https://www.upwork.com/freelancers/~01362dcf665cb026b2)
+- [**LinkedIn**](https://www.linkedin.com/in/bilalkumrani/)
+- [**Twitter**](https://twitter.com/bilalkumrani)
+- [**Dev.to**](https://dev.to/bilalkumrani)
+
+- contact@bilalumrani.com
 
 Feel free to reach out to me anytime! I'm ready to get started and help you achieve digital success. 🌟
 
