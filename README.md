@@ -1,4 +1,4 @@
-# 👋 Hi there! I'm [Your Name], a Pro Next.js Developer 🚀
+ 👋 Hi there! I'm Bilal Umrani, a Pro Next.js Developer 🚀
 
 Welcome to my GitHub! I'm a dedicated and experienced full-stack developer with a passion for crafting cutting-edge web solutions. With over 06 years of battle-tested expertise, I consistently deliver top-notch work that exceeds coding expectations.
 
@@ -46,11 +46,11 @@ Welcome to my GitHub! I'm a dedicated and experienced full-stack developer with 
 
 ## 🚀 Let's Connect!
 
-- **Upwork:** [https://www.upwork.com/freelancers/~01362dcf665cb026b2](upwork-profile-link)
-- **LinkedIn:** [https://www.linkedin.com/in/bilalkumrani/](linkedin-profile-link)
-- **Twitter:** [https://twitter.com/bilalkumrani](twitter-profile-link)
-- **Email:** contact@bilalumrani.com
+- **Upwork:** [Your Upwork Profile Link](https://www.upwork.com/freelancers/~01362dcf665cb026b2)
+- **LinkedIn:** [Your LinkedIn Profile Link](https://www.linkedin.com/in/bilalkumrani/)
+- **Twitter:** [Your Twitter Profile Link](https://twitter.com/bilalkumrani)
+- **Email:** your.email@example.com
 
 Feel free to reach out to me anytime! I'm ready to get started and help you achieve digital success. 🌟
 
-[![GitHub followers](https://img.shields.io/github/followers/your-github-username?label=Follow&style=social)](https://github.com/bilalkumrani)
+[![GitHub followers](https://img.shields.io/github/followers/bilalkumrani?label=Follow&style=social)](https://github.com/bilalkumrani)
