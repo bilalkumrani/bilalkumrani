@@ -1,6 +1,6 @@
  👋 Hi there! I'm Bilal Umrani, a Pro Full-Stack Developer 🚀
 
-Welcome to my GitHub! I'm a dedicated and experienced full-stack developer with a passion for crafting cutting-edge web solutions. With over 06 years of battle-tested expertise, I consistently deliver top-notch work that exceeds coding expectations.
+Welcome to my GitHub! I'm a dedicated and experienced full-stack developer with a passion for crafting cutting-edge web solutions. I consistently deliver top-notch work that exceeds coding expectations.
 
 ## 🌐 Skills
 
