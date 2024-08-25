@@ -18,6 +18,8 @@ Welcome to my GitHub! I'm a dedicated and experienced full-stack developer with 
 - Storybook
 
 ### Backend Development
+- Django
+- FastAPI
 - Node.js
 - Express.js
 - Nest.js
