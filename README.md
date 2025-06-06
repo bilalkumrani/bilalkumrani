@@ -15,7 +15,7 @@ Focused on achieving ventures' financial goals, I'm an enthusiastic web develope
 
 ## WORK EXPERIENCE
 
-### Senior Software Engineer at Generative Genie, Montana, USA  
+### Senior Software Engineer at Generative Genie, Montana, USA 🇺🇸
 *Jan 2023 — Dec 2024*
 
 - Led the development and implementation of robust RESTful APIs, seamlessly integrating them with cutting-edge front-end technologies for optimal user experiences.  
@@ -24,14 +24,14 @@ Focused on achieving ventures' financial goals, I'm an enthusiastic web develope
 - Drive initiatives for web accessibility, making our product more inclusive and user-friendly.  
 - Architected and developed a secure authentication-backed application while meticulously documenting the codebase and APIs for transparency and future scalability.
 
-### Full Stack Developer at Sunt, Stockholm, Sweden  
+### Full Stack Developer at Sunt, Stockholm, Sweden 🇸🇪
 *Sep 2020 — Dec 2022*
 
 - Collaborated proactively with a skilled team of developers to craft modern, data-intensive web applications that adhere to industry best practices.  
 - Designed and executed semantically structured full-stack web applications, prioritizing intuitive user interfaces and robust functionality.  
 - Championed agile methodologies, particularly SCRUM, to optimize project management and deliver successful outcomes.
 
-### Trainee Developer at 100devs, Los Angeles, CA, USA  
+### Trainee Developer at 100devs, Los Angeles, CA, USA  🇺🇸
 *May 2019 — Sep 2019*
 
 - Actively participated in the development of contemporary and responsive web applications, contributing valuable insights and learning from experienced team members.  
