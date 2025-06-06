@@ -63,32 +63,40 @@ Modern Design Principles, Web Accessibility
 
 ## Recent Projects
 
-**01 - GPT-Gennie (Full stack Web App)**  
-A remarkable endeavor designed to expand the capabilities of ChatGPT. Features include content organization, collaboration tools, advanced search, customizable prompts, and in-depth usage analytics.  
-**Technologies:** NestJs with TypeScript, Strapi, RocketChat, Supabase, AWS EB.  
-[https://genie.generategenie.ai/](https://genie.generategenie.ai/)
+**01 - Venture mind**  
+Developed an AI-driven venture analysis platform for Venturemind AI, enabling data-driven decision-making. Integrated real-time market insights, predictive analytics, and automated reporting for investors. The system streamlines startup evaluations, improving accuracy and efficiency in funding decisions.
+[https://venturemind.ai/](https://venturemind.ai/)
 
-**02 - Qazcorpora & Qazgramma**  
-AI-powered linguistic web application in the Kazakh language, supported by the Kazakhstan govt.  
-[https://qazcorpora.kz/](https://qazcorpora.kz/)  
-[https://new.qazgramma.kz/landing-page](https://new.qazgramma.kz/landing-page)
+**02 - Sunt**  
+Developed a tailored ERP system for Sun Tech, streamlining business operations with automated workflows, real-time data tracking, and integrated reporting. The platform enhances productivity by managing inventory, finance, and HR processes efficiently, ensuring seamless scalability and operational control.   
+[https://sunt.tech](https://sunt.tech)
 
-**03 - Quant Visual**  
-A comprehensive stock exchange website with real-time market data and advanced trading tools.  
-**Technologies:** ReactJS, NestJS, Apex Charts, MySQL, JavaScript.  
-[https://www.quantvisual.com/](https://www.quantvisual.com/)
+**03 - Marketing biz**  
+Developed a high-performance frontend for Marketing.Biz, ensuring a seamless user experience and interactive UI. Implemented efficient state management and optimized loading times for smooth navigation. Enhanced user engagement through dynamic components and responsive design, making the platform more intuitive and conversion-focused.
+[https://marketing.biz](https://marketing.biz/)
 
 **04 - SUNT**  
 A platform transforming public procurement through experience sharing.  
 **Technologies:** React, React Query, Nest, Express, Ant Design, Prisma, MySQL, TypeScript.  
 [https://sunt.tech/](https://sunt.tech/)
 
-**05 - Car Support AI System**  
-AI-driven solution for automotive support including diagnostics and recommendations.  
-**Technologies:** Nuxt.js, TypeScript.
+**05 - Docuguardian**  
+Built a secure and efficient document management system for Docu Guardian, ensuring seamless file storage, retrieval, and sharing. Integrated advanced encryption protocols to enhance data security and compliance. Optimized backend architecture for fast processing and a responsive frontend for an intuitive user experience.**Technologies:** Nuxt.js, TypeScript.
+[https://docuguardian.com/](https://docuguardian.com/)
 
-**06 - 100DEVS Community Website (Fullstack Web App)**  
-A platform with Tribe integration for community engagement. Features include user profiles, forums, events, and groups.
+**06 - Toksta**  
+Toksta required a high-performance frontend to enhance user engagement and deliver a seamless experience. Developed with modern JavaScript frameworks, the UI ensures fast load times, smooth interactions, and a responsive design across all devices. Key features include an intuitive dashboard, real-time updates, and optimized navigation. The result is a scalable, visually appealing interface that enhances user retention and usability.
+[https://toksta.com/](https://toksta.com/)
+
+**07 - Jakmet**
+Built a comprehensive metal trading platform for JakMet, enabling seamless transactions and real-time pricing updates. Integrated secure payment processing, automated inventory management, and advanced analytics to optimize trade operations. The system enhances user experience and ensures efficient metal procurement and sales.  
+[https://jakmet.ai/](https://jakmet.ai/)
+
+**08 - Optiwork**
+OptiWork required an AI-driven workforce management system to streamline operations. The solution integrated predictive analytics, automated scheduling, and intelligent task delegation. Leveraging machine learning models, the system optimized workforce allocation, reducing inefficiencies by 40%. With real-time insights and adaptive automation, businesses can now enhance productivity while minimizing manual oversight.
+[[https://jakmet.ai/](https://optiworkprelaunch-ad4d44d246a9.herokuapp.com/)]([https://jakmet.ai/](https://optiworkprelaunch-ad4d44d246a9.herokuapp.com/))
+
+
 
 **Other Projects:**  
 Sorting algorithms visualizer, Eyeglasses shopping using AR, Vehicle parking system, Bookmarks managing app.
