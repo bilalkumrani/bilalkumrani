@@ -1,4 +1,4 @@
-# Bilal Khan Umrani
+# Bilal K. Umrani
 **Software Engineer**
 
 ---
