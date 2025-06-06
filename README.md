@@ -13,6 +13,11 @@ Focused on achieving ventures' financial goals, I'm an enthusiastic web develope
 
 ---
 
+## Intro Video
+
+<iframe width="560" height="315" src="https://www.youtube.com/embed/KXBBHNY7Icw" title="YouTube video player" frameborder="0" allowfullscreen></iframe>
+
+
 ## WORK EXPERIENCE
 
 ### Senior Software Engineer at Generative Genie, Montana, USA 🇺🇸
