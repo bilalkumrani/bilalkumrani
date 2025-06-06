@@ -15,7 +15,7 @@ Focused on achieving ventures' financial goals, I'm an enthusiastic web develope
 
 ## Intro Video
 
-[![Watch the video](https://i.sstatic.net/Vp2cE.png)](https://youtu.be/KXBBHNY7Icw)
+[![Watch the video](https://ibb.co/5Xhzxkkt)](https://youtu.be/KXBBHNY7Icw)
 
 ## WORK EXPERIENCE
 
