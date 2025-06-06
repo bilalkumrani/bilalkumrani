@@ -94,7 +94,7 @@ Built a comprehensive metal trading platform for JakMet, enabling seamless trans
 
 **08 - Optiwork**
 OptiWork required an AI-driven workforce management system to streamline operations. The solution integrated predictive analytics, automated scheduling, and intelligent task delegation. Leveraging machine learning models, the system optimized workforce allocation, reducing inefficiencies by 40%. With real-time insights and adaptive automation, businesses can now enhance productivity while minimizing manual oversight.
-[[https://jakmet.ai/](https://optiworkprelaunch-ad4d44d246a9.herokuapp.com/)]([https://jakmet.ai/](https://optiworkprelaunch-ad4d44d246a9.herokuapp.com/))
+[https://optiworkprelaunch-ad4d44d246a9.herokuapp.com/](https://optiworkprelaunch-ad4d44d246a9.herokuapp.com/)
 
 
 
