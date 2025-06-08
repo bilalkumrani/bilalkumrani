@@ -81,11 +81,10 @@ Developed a high-performance frontend for Marketing.Biz, ensuring a seamless use
 
 **04 - SUNT**  
 A platform transforming public procurement through experience sharing.  
-**Technologies:** React, React Query, Nest, Express, Ant Design, Prisma, MySQL, TypeScript.  
 [https://sunt.tech/](https://sunt.tech/)
 
 **05 - Docuguardian**  
-Built a secure and efficient document management system for Docu Guardian, ensuring seamless file storage, retrieval, and sharing. Integrated advanced encryption protocols to enhance data security and compliance. Optimized backend architecture for fast processing and a responsive frontend for an intuitive user experience.**Technologies:** Nuxt.js, TypeScript.
+Built a secure and efficient document management system for Docu Guardian, ensuring seamless file storage, retrieval, and sharing. Integrated advanced encryption protocols to enhance data security and compliance. Optimized backend architecture for fast processing and a responsive frontend for an intuitive user experience.
 [https://docuguardian.com/](https://docuguardian.com/)
 
 **06 - Toksta**  
