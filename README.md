@@ -6,7 +6,7 @@
 ## SUMMARY
 
 - Top Rated | Top 10% Developer on Upwork  
-- Completed over 1000+ hours of work on the platform  
+- Completed over 2000+ hours of work on the platform  
 - Maintained a 100% client satisfaction rate with a 100% Job Success Score  
 
 Focused on achieving ventures' financial goals, I'm an enthusiastic web developer committed to quality and problem-solving. Dedicated to teaching all team members professional skills while continually learning and embracing challenges for success, with a strong emphasis on personal development.
