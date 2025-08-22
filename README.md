@@ -103,14 +103,6 @@ Sorting algorithms visualizer, Eyeglasses shopping using AR, Vehicle parking sys
 
 ---
 
-## EDUCATION
-
-**SUKKUR IBA**  
-*2018 - 2022*  
-**Degree:** Software Engineering
-
----
-
 ## TECH BADGES
 
 1. [Software Engineering Essentials - IBM](https://www.credly.com/badges/cb3f775d-c245-4c38-b57c-f12a42b44cee/public_url)  
