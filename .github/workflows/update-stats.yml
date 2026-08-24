@@ -1,0 +1,73 @@
+name: Refresh GitHub activity cards
+
+on:
+  schedule:
+    # Every 6 hours. Adjust as you like.
+    - cron: "0 */6 * * *"
+  workflow_dispatch: {}
+  push:
+    branches: [main]
+
+permissions:
+  contents: write
+
+jobs:
+  refresh:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Ensure assets folder exists
+        run: mkdir -p assets
+
+      - name: Fetch stats card
+        run: |
+          curl -sf "https://github-readme-stats.vercel.app/api?username=bilalkumrani&show_icons=true&hide_border=true&bg_color=0B1120&title_color=06B6D4&text_color=94A3B8&icon_color=2563EB&ring_color=2563EB" \
+            -o assets/stats.svg.new || true
+          if [ -s assets/stats.svg.new ] && ! grep -qi "something went wrong" assets/stats.svg.new; then
+            mv assets/stats.svg.new assets/stats.svg
+          else
+            echo "Stats card fetch failed or returned an error card, keeping previous version"
+            rm -f assets/stats.svg.new
+          fi
+
+      - name: Fetch top languages card
+        run: |
+          curl -sf "https://github-readme-stats.vercel.app/api/top-langs/?username=bilalkumrani&layout=compact&hide_border=true&bg_color=0B1120&title_color=06B6D4&text_color=94A3B8" \
+            -o assets/top-langs.svg.new || true
+          if [ -s assets/top-langs.svg.new ] && ! grep -qi "something went wrong" assets/top-langs.svg.new; then
+            mv assets/top-langs.svg.new assets/top-langs.svg
+          else
+            echo "Top languages card fetch failed or returned an error card, keeping previous version"
+            rm -f assets/top-langs.svg.new
+          fi
+
+      - name: Fetch streak card
+        run: |
+          curl -sf "https://streak-stats.demolab.com/?user=bilalkumrani&hide_border=true&background=0B1120&stroke=2563EB&ring=2563EB&fire=F59E0B&currStreakLabel=06B6D4&sideLabels=94A3B8&currStreakNum=FFFFFF&sideNums=FFFFFF&dates=64748B" \
+            -o assets/streak.svg.new || true
+          if [ -s assets/streak.svg.new ] && ! grep -qi "something went wrong" assets/streak.svg.new; then
+            mv assets/streak.svg.new assets/streak.svg
+          else
+            echo "Streak card fetch failed or returned an error card, keeping previous version"
+            rm -f assets/streak.svg.new
+          fi
+
+      - name: Fetch trophy card
+        run: |
+          curl -sf "https://github-profile-trophy.vercel.app/?username=bilalkumrani&theme=algolia&no-frame=true&no-bg=true&margin-w=8&row=1" \
+            -o assets/trophy.svg.new || true
+          if [ -s assets/trophy.svg.new ] && ! grep -qi "something went wrong" assets/trophy.svg.new; then
+            mv assets/trophy.svg.new assets/trophy.svg
+          else
+            echo "Trophy card fetch failed or returned an error card, keeping previous version"
+            rm -f assets/trophy.svg.new
+          fi
+
+      - name: Commit changes if anything actually updated
+        run: |
+          git config user.name "github-actions[bot]"
+          git config user.email "41898282+github-actions[bot]@users.noreply.github.com"
+          git add assets/*.svg
+          git diff --staged --quiet || (git commit -m "chore: refresh GitHub activity cards" && git push)
