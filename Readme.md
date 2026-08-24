@@ -318,7 +318,6 @@ Treats AI-assisted coding as a discipline, not a shortcut, deliberately choosing
 
 <br><br>
 
-<sub>These four cards are refreshed every six hours by a GitHub Action in this repo, so they never depend on a third-party service being up at the exact moment someone views this page.</sub>
 
 </div>
 
