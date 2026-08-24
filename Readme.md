@@ -4,7 +4,7 @@
 
 <br>
 
-<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=21&duration=2600&pause=1100&color=06B6D4&center=true&vCenter=true&width=760&lines=Owning+SaaS+builds+end+to+end%3A+architecture%2C+development%2C+deployment;Turning+unpredictable+AI+into+reliable+production+software;Specialist+in+Healthtech+and+Proptech;Still+there+after+launch%2C+when+products+actually+break" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com/?font=JetBrains+Mono&weight=500&size=20&duration=2600&pause=1100&color=06B6D4&center=true&vCenter=true&width=960&lines=Owning+SaaS+builds+end+to+end%3A+architecture%2C+development%2C+deployment;Turning+unpredictable+AI+into+reliable+production+software;Specialist+in+Healthtech+and+Proptech;Still+there+after+launch%2C+when+products+actually+break" alt="Typing SVG" />
 
 <br><br>
 
@@ -305,8 +305,7 @@ Treats AI-assisted coding as a discipline, not a shortcut, deliberately choosing
 
 <div align="center">
 
-<img src="./assets/stats.svg" height="165"/>
-<img src="./assets/top-langs.svg" height="165"/>
+
 
 <br>
 
@@ -314,10 +313,20 @@ Treats AI-assisted coding as a discipline, not a shortcut, deliberately choosing
 
 <br><br>
 
-<img src="./assets/trophy.svg" />
 
-<br><br>
 
+
+</div>
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0B1120,50:2563EB,100:06B6D4&height=8&section=header" width="100%"/>
+
+<div align="center">
+
+## Newsletter
+
+Notes on owning technical builds end to end: architecture decisions, AI-to-production hardening, and what actually breaks after launch.
+
+<a href="https://bilalumrani.substack.com"><img src="https://img.shields.io/badge/Subscribe%20on%20Substack-0B1120?style=for-the-badge&logo=substack&logoColor=FF6719"/></a>
 
 </div>
 
