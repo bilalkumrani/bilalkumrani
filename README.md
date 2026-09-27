@@ -8,7 +8,7 @@
 
 <br>
 
-| **5+** | **60+** | **11+** | **2,500+** |
+| **6+** | **65+** | **11+** | **2,500+** |
 |:---:|:---:|:---:|:---:|
 | Years building production web software | Client projects delivered | Person team built as a co-founder | Hours logged on client contracts |
 
