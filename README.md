@@ -18,7 +18,7 @@
 
 ## Professional Summary
 
-Full stack developer and technical lead with 5+ years building SaaS platforms, data-heavy dashboards and AI-powered web apps. Hands-on in React, Next.js, TypeScript, Node.js, Python, Django and AWS, with leadership experience as a CTO and company co-founder. Known for turning unclear requirements into working software fast and keeping clients informed at every step, which has led to steady repeat business.
+Full stack developer and technical lead with 6+ years building SaaS platforms, data-heavy dashboards and AI-powered web apps. Hands-on in React, Next.js, TypeScript, Node.js, Python, Django and AWS, with leadership experience as a CTO and company co-founder. Known for turning unclear requirements into working software fast and keeping clients informed at every step, which has led to steady repeat business.
 
 ## Core Expertise
 
