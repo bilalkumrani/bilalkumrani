@@ -4,7 +4,7 @@
 
 ### Senior Full Stack Developer and Technical Lead
 
-[bilalkumrani@gmail.com](mailto:bilalkumrani@gmail.com) · [LinkedIn](https://www.linkedin.com/in/bilalkumrani/) · [GitHub](https://github.com/bilalkumrani)
+[LinkedIn](https://www.linkedin.com/in/bilalkumrani/) · [Website](https://bilalumrani.com)
 
 <br>
 
