@@ -22,7 +22,7 @@ Full stack developer and technical lead with 6+ years building SaaS platforms, d
 
 ## Core Expertise
 
-SaaS Architecture · Technical Leadership · MVP Development · Full Stack Web Apps · Dashboards and Analytics · API Integrations · AI and LLM Apps · Agile Delivery
+SaaS Architecture · Technical Leadership · MVP Development · Full Stack Web Apps · Dashboards and Analytics · API Integrations · Data Security · AI and LLM Apps · Agile Delivery
 
 ## Professional Experience
 
